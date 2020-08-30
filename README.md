@@ -53,3 +53,5 @@ For example:
 ```
 node app delete --description "First to-do item"
 ```
+
+It is also possible to use short forms for the parameters '--description' (-d) and '--completed' (-c)
